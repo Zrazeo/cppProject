@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1601502425 source:c:\users\nexon\desktop\2048\game.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	"grid.h"
+	"game.h"
+
+1601502652 c:\users\nexon\desktop\2048\grid.h
+	<iostream>
+
+1601501791 c:\users\nexon\desktop\2048\game.h
+	<iostream>
+	<string>
+	<fstream>
+	<time.h>
+	"grid.h"
+
+1601502435 source:c:\users\nexon\desktop\2048\grid.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"grid.h"
+
